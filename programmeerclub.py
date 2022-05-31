@@ -9,6 +9,5 @@ for getal in range(100):
         print("buzz")
         continue
     
-    print("FizzBuzz:")
     print(getal)
 	
