@@ -5,7 +5,7 @@ for getal in range(100):
     elif getal % 7 == 0:
         print("fizz")
         continue
-    elif getal % 9 == 0:
+    elif getal % 13 == 0:
         print("buzz")
         continue
     
